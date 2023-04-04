@@ -1,3 +1,5 @@
+## This repository is archived
+
 ## Titanium SDK for Countly 
 
 You can find **unofficial** Countly Titanium SDKs on the following links: 
